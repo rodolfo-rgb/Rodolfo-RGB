@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+![Static Badge](https://img.shields.io/badge/Aparicio%20Rodolfo-grey?style=flat-square&logo=linkedin&label=Linkedin&labelColor=%230A66C2&color=grey)
+
 <!--
 **rodolfo-rgb/rodolfo-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
